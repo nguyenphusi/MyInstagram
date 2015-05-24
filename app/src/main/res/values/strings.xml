@@ -13,4 +13,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_example">Example action</string>
+    <string name="title_activity_radio_tab">RaidoTabActivity</string>
+    <string name="title_activity_radio_tab_search_actitivy">RadioTabSearchActitivy</string>
+    <string name="title_activity_radio_tab_camera">RadioTabCameraActivity</string>
+    <string name="search_hint">Hint</string>
+    <string name="title_activity_tab_search">TabSearchActivity</string>
 </resources>
